@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shehryar Khan</h1>
+[![MasterHead](https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/Innovate%20-%20AIML/innovate-aiml-animated-bg.d14ec0889a3375b51bb2d033c585f998364489d1.gif)]<h1 align="center">Hi 👋, I'm Shehryar Khan</h1>
 <h3 align="center">Meet an aspiring software engineer fueled by boundless curiosity and an unwavering love for coding.</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/shkh1230/shkh1230/assets/44217389/10aca73e-7867-4248-b8ce-d09ede9c9863)
-">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkh1230&label=Profile%20views&color=0e75b6&style=flat" alt="shkh1230" /> </p>
 
