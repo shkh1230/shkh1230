@@ -1,5 +1,5 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
-<h1 align="center">Hello 👋, I'm Shehryar Khan</h1>
+<h1 align="center">Welcome to Shehryar's Github</h1>
 <h3 align="center">Meet an aspiring software engineer fueled by boundless curiosity and an unwavering love for coding.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
