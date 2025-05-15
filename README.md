@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkh1230&label=Profile%20views&color=0e75b6&style=flat" alt="shkh1230" /> </p>
 
-- 🔭 I’m currently working on **Password Protected Short URL**
+- 🔭 I’m currently working at **Blue Yonder as Software Engineer I**
 
-- 🌱 I’m currently learning **FastAPI, Spring Boot**
+- 🌱 I’m currently learning **Agentic AI, RAG Models**
 
 - 👨‍💻 All of my projects are available at [https://shehryarkhan-1.web.app/](https://shehryarkhan-1.web.app/)
 
