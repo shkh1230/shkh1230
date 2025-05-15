@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shkh1230@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_sCBmDRZzazN9zKcCmjjpgfcQQTnLCSC/view?usp=sharing](https://drive.google.com/file/d/1_sCBmDRZzazN9zKcCmjjpgfcQQTnLCSC/view?usp=sharing)
+- 📄 Know about my experiences 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shkh1230) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 
